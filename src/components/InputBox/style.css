@@ -1,0 +1,33 @@
+.trasation-form {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 3% 3%;
+    padding: 2%;
+    border-radius: 3px;
+    background-color: #fff;
+}
+
+.trasation-label {
+    font-weight: 700;
+}
+
+.trasation-input {
+    display: block;
+}
+
+.trasation-radio-input {
+    display: block;
+}
+
+.btn-add {
+    padding: 10px;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    background-color: #1976d2;
+}
+
+.btn-add:hover {
+    cursor: pointer;
+}
